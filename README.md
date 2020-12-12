@@ -9,7 +9,7 @@ In your challenge this week, you will demonstrate proficiency by adding _conditi
 
 ## Instructions
 
-**Read these instructions carefully. Understand exactly what is expected
+**Read these instructions carefully Understand exactly what is expected
 _before_ starting this Sprint Challenge.**
 
 This is an individual assessment. All work must be your own. Your challenge
@@ -38,9 +38,9 @@ In this code challenge, you will add _conditional jumps_ (AKA _conditional branc
 
 Options for submission, whichever is easier for you:
 
-* Copy your source into this repo, or...
+- Copy your source into this repo, or...
 
-* Submit a PR for the Sprint Challenge from the `Computer-Architecture` repo
+- Submit a PR for the Sprint Challenge from the `Computer-Architecture` repo
   you've been using all along.
 
 ## Minimum Viable Product
